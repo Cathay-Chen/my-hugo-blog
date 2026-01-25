@@ -10,7 +10,7 @@ draft: false
 
 目前正深入学习 **Agent（智能体）** 相关技术与工程化实践，并长期关注 **AI Coding**（特别是 Claude Code）在实际开发、重构与系统设计中的应用。
 
-- 工作年限：6 年 +
+- 工作年限：11 年 +
 - 技术博客：<https://blog.chenguotai.com>
 - Github: <http://github.com/Cathay-Chen>
 - Email: cathaycchen[@]gmail.com
