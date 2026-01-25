@@ -23,7 +23,7 @@ tabWidth = 2
 
 # https://gohugo.io/content-management/urls/#aliases
 [permalinks]
-posts = "/:filename"
+posts = "/:contentbasename"
 
 [outputFormats.RSS]
 mediatype = "application/rss"
@@ -32,10 +32,10 @@ baseName = "atom"
 [services.rss]
 limit = 20
 
-[author]
+[params.author]
 name = "cathay"
 avatar = "https://avatars.githubusercontent.com/u/17735318?s=96&v=4"
-bio = "君子少思长，则学；老思死，则教；有思穷，则施也。"
+bio = "君子少思长,则学;老思死,则教;有思穷,则施也。"
 homepage = "https://www.chenguotai.com/"
 
 [params]
@@ -73,7 +73,7 @@ alipay = "https://blog-1251237404.cos.ap-guangzhou.myqcloud.com/20190424153431.p
 
 ############ 评论系统  end ##############
 ## 社交链接
-[social]
+[params.social]
 github = "Cathay-Chen"
 twitter = "cathay_tiger"
 douban = "cathaychen"
