@@ -116,7 +116,6 @@ openclaw configure
 
 详细的飞书配置可以参考腾讯云的文章：
 - [【保姆级教程】手把手教你安装OpenClaw并接入飞书，让AI在聊天软件里帮你干活-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2626160)
-- [OpenClaw 官方飞书文档](https://openclaw.ai/docs/channels/feishu)
 
 ---
 
@@ -258,9 +257,7 @@ openclaw status
 
 - [OpenClaw 官网](https://openclaw.ai)
 - [OpenClaw GitHub](https://github.com/openclaw/openclaw)
-- [OpenClaw 官方文档](https://docs.openclaw.ai)
-- [OpenClaw 飞书配置文档](https://openclaw.ai/docs/channels/feishu)
-- [飞书机器人开发指南 - 腾讯云](https://cloud.tencent.com/developer/article/2306353)
+- [【保姆级教程】手把手教你安装OpenClaw并接入飞书，让AI在聊天软件里帮你干活-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2626160)
 
 ---
 
