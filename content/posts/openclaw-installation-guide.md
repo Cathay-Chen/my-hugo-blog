@@ -115,7 +115,7 @@ openclaw configure
 ### 📚 参考教程
 
 详细的飞书配置可以参考腾讯云的文章：
-- [飞书机器人开发指南](https://cloud.tencent.com/developer/article/2306353)
+- [【保姆级教程】手把手教你安装OpenClaw并接入飞书，让AI在聊天软件里帮你干活-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/2626160)
 - [OpenClaw 官方飞书文档](https://openclaw.ai/docs/channels/feishu)
 
 ---
